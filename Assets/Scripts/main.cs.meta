@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c70fc66cc20df49bf94ecd91168e72a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftFishEye: {fileID: 1531113026479717322, guid: b7d2f12817d1145318dadf2ea7979a32, type: 3}
+  - rightFishEye: {fileID: 1531113026479717322, guid: 7942389e3d7b34a29a028caee9a85a5d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
