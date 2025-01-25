@@ -1,4 +1,4 @@
-# Leaping Fish Verlet Unity Game Assignment
+# Leaping Fish Verlet Unity Assignment
 
 Created for COMP 521 - Modern Computer Games. Made using Unity/C#.
 
@@ -16,8 +16,6 @@ Requirements included:
 - **Keyboard:** Press 1 to launch a fish from the left side and 2 to launch a fish from the right
 
 ### Screenshots:
-<div><img src="starting-screen.png" align="left" /></div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div><img src="fps-unity.png" align="left width="1400" /></div>
+<div><img src="leaping-fish-verlets.png" align="left" /></div>
 
 
